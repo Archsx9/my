@@ -1,0 +1,1 @@
+cmake .. -DXMRIG_DEPS=scripts/deps
