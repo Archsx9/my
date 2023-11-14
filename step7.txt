@@ -1,0 +1,1 @@
+mkdir xmrig/build && cd xmrig/scripts
