@@ -1,0 +1,2 @@
+cp *.txt ./root/my/xmrig/build
+cp *.json ./root/my/xmrig/build
