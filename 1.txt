@@ -1,0 +1,4 @@
+apt update -y /n
+apt upgrade -y /n
+apt autoremove /n
+reboot
