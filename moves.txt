@@ -1,1 +1,1 @@
-cp *.txt ./root/my/xmrig/scripts
+cp *.txt /root/my/xmrig/scripts
