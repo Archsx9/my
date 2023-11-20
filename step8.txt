@@ -1,1 +1,1 @@
-./build_deps.sh && cd ../build
+./build_deps.sh && cd - && . moveb.txt && cd ../build
