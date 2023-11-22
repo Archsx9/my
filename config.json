@@ -98,8 +98,8 @@
         {
             "algo": null,
             "coin": "XMR",
-            "url": "xmr-us-east1.nanopool.org:14433",
-            "user": "45gpixw1aBChNwBZk3Vu7THS5NomiFc67cK8ZDDvdY85SzTfs2aFu7QVJdKPKWUaL7GnayE1kqRMXcUavkUxUUrtAUuH8dy",
+            "url": "us.zephyr.herominers.com:1123",
+            "user": "ZEPHsCU1Lvb7v3LfN86WagKnzZCdDPQfpi9RBzEx3Y1GBwQgZtnikJNe29xTVzpTmmTL9TQcXKgkYPcEnzooGXxNhVDcNvNyp2D",
             "pass": null,
             "rig-id": null,
             "nicehash": false,
