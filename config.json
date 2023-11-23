@@ -96,8 +96,8 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
-            "coin": "XMR",
+            "algo": "rx/0",
+            "coin": null,
             "url": "us.zephyr.herominers.com:1123",
             "user": "ZEPHsCU1Lvb7v3LfN86WagKnzZCdDPQfpi9RBzEx3Y1GBwQgZtnikJNe29xTVzpTmmTL9TQcXKgkYPcEnzooGXxNhVDcNvNyp2D",
             "pass": null,
